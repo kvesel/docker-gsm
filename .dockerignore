@@ -1,0 +1,13 @@
+# Common
+README.md
+CHANGELOG.md
+docker-compose.yml
+Dockerfile*
+
+# MacOS
+.DS_Store
+
+# git
+.git
+.gitattributes
+.gitignore
